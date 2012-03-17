@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/cPanel-3rdparty-nginx.t
+lib/cPanel/3rdparty/nginx.pm
