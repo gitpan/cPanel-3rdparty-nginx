@@ -2,4 +2,6 @@ Revision history for Perl extension cPanel::3rdparty::nginx.
 
 0.01  Thu Mar 15 20:14:22 2012
 	- released functions getAuthHash for geting WHM access hash and getXMLAPIResult for geting cPanel XMLAPI response
-
+0.02  Fri Mar 16 19:04:00 2012
+	- bug fixed0.02  Fri Mar 16 19:04:00 2012
+	- bug fixed

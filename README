@@ -1,4 +1,4 @@
-cPanel-3rdparty-nginx version 0.01
+cPanel-3rdparty-nginx version 0.02
 ==================================
 
 This is a Perl extension for integration cPanel and webserver NGINX <http://nginx.org/en/>
