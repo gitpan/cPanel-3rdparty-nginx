@@ -20,7 +20,7 @@ our @EXPORT = qw(
 
 );
 
-our $VERSION = '0.01_01';
+our $VERSION = '0.01';
 
 use LWP::UserAgent;
 use HTTP::Request;
